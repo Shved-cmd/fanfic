@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/item_home">
+
+    <fragment
+        android:id="@+id/item_home"
+        android:name="com.example.fanfic.screens.home.Home_Fragment"
+        android:label="fragment_home_"
+        tools:layout="@layout/fragment_home_" />
+    <fragment
+        android:id="@+id/item_profile"
+        android:name="com.example.fanfic.screens.profile.Profile_Fragment"
+        android:label="fragment_profile_"
+        tools:layout="@layout/fragment_profile_" />
+    <fragment
+        android:id="@+id/item_saved"
+        android:name="com.example.fanfic.screens.saved.Saved_Fragment"
+        android:label="fragment_saved_"
+        tools:layout="@layout/fragment_saved_" />
+    <fragment
+        android:id="@+id/item_search"
+        android:name="com.example.fanfic.screens.search.Search_Fragment"
+        android:label="fragment_search_"
+        tools:layout="@layout/fragment_search_" />
+</navigation>

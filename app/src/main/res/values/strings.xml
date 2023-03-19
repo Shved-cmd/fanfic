@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fanfic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fanfics">Fanfics</string>
+    <string name="Home">Home</string>
+    <string name="Search">Search</string>
+    <string name="Saved">Saved</string>
+    <string name="Profile">Profile</string>
+    <string name="Popular">Popular</string>
+    <string name="Eblan2002">Eblan2002</string>
+    <string name="MaximCool">MaximCool</string>
+    <string name="Vooohoo2">Vooohoo2</string>
+    <string name="Authors">Authors</string>
+    <string name="EnterQuery">Enter query</string>
+    <string name="Dexer">Dexser</string>
+    <string name="followers">34 followers</string>
+    <string name="Ilikmygrealifeandihavegreatgirl.">I like my great life, and i have a great girl.</string>
+
+</resources>
